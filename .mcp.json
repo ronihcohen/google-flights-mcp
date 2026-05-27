@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flights": {
+      "command": "/Users/ronyhacohen/code/webwrite/.venv/bin/python",
+      "args": ["/Users/ronyhacohen/code/webwrite/mcp_server.py"]
+    }
+  }
+}
